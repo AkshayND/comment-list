@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.post-comment,
+.comment {
+  background-color: #e3e3e3;
+  padding: 1em;
+}
